@@ -4,12 +4,16 @@
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
-    "dev": "nodemon app.js"
+    "dev": "nodemon app.js",
+    "build": "echo 'No build step required'"
+  },
+  "engines": {
+    "node": ">=18.0.0"
   },
   "keywords": [],
-  "author": "",
+  "author": "Sanjeet Kumar",
   "license": "ISC",
-  "description": "",
+  "description": "Modern file upload app with drag & drop, real-time preview, and Cloudinary storage",
   "dependencies": {
     "cloudinary": "^2.7.0",
     "dotenv": "^17.0.1",
