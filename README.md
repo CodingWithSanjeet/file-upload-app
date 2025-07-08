@@ -2,6 +2,8 @@
 
 **Developer:** [Sanjeet Kumar](https://www.linkedin.com/in/sanjeet-kumar-5a33b77b/) | [Linkedin](https://www.linkedin.com/in/sanjeet-kumar-5a33b77b/)
 
+**🚀 Live Demo:** [https://file-upload-app-0gb6.onrender.com/](https://file-upload-app-0gb6.onrender.com/)
+
 A modern, full-stack Node.js application for uploading and managing product images with a beautiful, professional user interface. Features dual storage options (local and Cloudinary) with comprehensive file validation and an intuitive user experience.
 
 ## 🚀 Features
@@ -12,22 +14,6 @@ A modern, full-stack Node.js application for uploading and managing product imag
 - **Product Management**: Create and manage products with images
 - **File Validation**: MIME type and file size validation (1MB limit)
 - **Database Integration**: MongoDB for product storage
-
-### **Modern UI/UX**
-- **Professional Design**: Modern hero section with gradient backgrounds
-- **Drag & Drop Upload**: Intuitive file upload with drag and drop support
-- **Image Preview**: Real-time image preview before upload
-- **Toast Notifications**: Beautiful success/error messages
-- **Loading States**: Visual feedback during operations
-- **Responsive Design**: Mobile-first, works on all devices
-- **Smooth Animations**: Professional transitions and hover effects
-
-### **Enhanced User Experience**
-- **Form Validation**: Real-time validation with visual feedback
-- **Button States**: Smart button disabling during operations
-- **Empty States**: Friendly messages when no products exist
-- **Error Recovery**: Graceful error handling and recovery
-- **Accessibility**: Proper ARIA labels and keyboard navigation
 
 ## 🛠️ Technologies Used
 
@@ -92,6 +78,8 @@ A modern, full-stack Node.js application for uploading and managing product imag
    ```
 
 The application will be available at `http://localhost:3000`
+
+**Note:** You can also try the live demo at [https://file-upload-app-0gb6.onrender.com/](https://file-upload-app-0gb6.onrender.com/) without any installation!
 
 ## 📁 Project Structure
 
@@ -162,7 +150,7 @@ formData.append('image', imageFile);
 
 ### Frontend Usage
 
-1. **Open the application** in your browser at `http://localhost:3000`
+1. **Open the application** in your browser at [https://file-upload-app-0gb6.onrender.com/](https://file-upload-app-0gb6.onrender.com/) or locally at `http://localhost:3000`
 2. **Upload Product Image**:
    - Click "Choose image or drag & drop" or drag files directly
    - Supports PNG, JPG, JPEG files up to 1MB
@@ -309,15 +297,6 @@ For support, please create an issue in the repository or contact **Sanjeet Kumar
 - **LinkedIn**: [linkedin.com/in/sanjeet-kumar-5a33b77b](https://www.linkedin.com/in/sanjeet-kumar-5a33b77b/)
 - **GitHub**: [github.com/CodingWithSanjeet](https://github.com/CodingWithSanjeet)
 - **Email**: sanjeet.kumar.nitt@gmail.com
-
-## 🌟 Screenshots
-
-The application features:
-- **Modern Hero Section**: Professional gradient background with clear messaging
-- **Intuitive Upload Interface**: Drag & drop with real-time preview
-- **Responsive Product Grid**: Beautiful card-based layout
-- **Professional Developer Profile**: Integrated contact information
-- **Toast Notifications**: Elegant success/error messaging
 
 ---
 
