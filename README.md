@@ -1,6 +1,6 @@
 # File Upload App
 
-**Developer:** [Sanjeet Kumar](https://www.linkedin.com/in/sanjeet-kumar-5a33b77b/) | [GitHub](https://github.com/CodingWithSanjeet)
+**Developer:** [Sanjeet Kumar](https://www.linkedin.com/in/sanjeet-kumar-5a33b77b/) | [Linkedin](https://www.linkedin.com/in/sanjeet-kumar-5a33b77b/)
 
 A modern, full-stack Node.js application for uploading and managing product images with a beautiful, professional user interface. Features dual storage options (local and Cloudinary) with comprehensive file validation and an intuitive user experience.
 
